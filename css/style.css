@@ -1,0 +1,129 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 35px;
+}
+
+
+.madly {
+    color: orange;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 30px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+}
+
+.top-section {
+    display: flex;
+   background-image: url(../images/Frame\ 57.jpg);
+}
+#topsection{
+    margin: 2% 2% 0 2%;
+}
+
+.top-section-div1 {
+    width: 50%;
+    padding: 3.5% 0 5% 15%;
+}
+
+.top-section-div2 {
+    width: 50%;
+    padding: 3.5% 5% 5% 0;
+}
+
+.top-section-div2 img {
+    width: 75%;
+    border-radius: 50%;
+}
+.top-section-div3 {
+    width: 50%;
+    padding: 3.5% 0 5% 10%;
+}
+
+.top-section-div4 {
+    width: 50%;
+    padding: 3.5% 5% 5% 0;
+}
+.top-section-div3 img {
+    width: 100%;
+    
+}
+#midsection{
+    background-image: url(../images/7.png);
+    background-repeat: no-repeat;
+    margin: 2% 2% 2% 2%;
+    height: 464px;
+}
+.third-section{
+
+margin: 2% 2% 0 2%;
+}
+.third-section-div {
+    width: 18%;
+    padding: 2%;
+    margin: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    
+}
+#textcenter{
+    text-align: center;
+}
+#third-section-div1{
+    border-radius: 20px;
+}
+#hr{
+    width: 450px;
+}
+#img1{
+    height: 250px ;
+    width: 250px;
+    border-radius: 20px;
+
+}
+.text{
+    height: 50%;
+    margin: 2% 2% 0 2%;
+}
+.fourth-div{
+    display: flex;
+    background-color:white;
+    width: 80%;
+    height: 200px;
+    border-radius: 30px;
+    margin: 5% 10% 2% 10%;
+    box-shadow: 10px 10px 40px gray;
+    align-items: center;
+    
+}
+.fourthdiv{
+    width:40%;
+    padding: 1% 5% 5% 8%;
+    line-height: 5px;
+}
+footer h3{
+    text-align: center;
+}
+footer{
+    height: 150px;
+    color: white;
+    padding-top: 2%;
+    background-color: black;
+}
+.fourth-div p{
+   font-weight: 700;
+   font-size: 35px;
+   justify-content: center;
+}
